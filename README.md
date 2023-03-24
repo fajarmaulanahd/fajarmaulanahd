@@ -5,3 +5,10 @@ Selain IT (cloud computing), saya juga memiliki interest dalam dunia bisnis, Hum
 Jika kamu tertarik untuk mengetahui lebih banyak tentang saya, silahkan ikuti dan connect dengan akun [LinkedIn](https://www.linkedin.com/in/fajarmaulanahd/)ku yaa
 
 Terima kasih:)
+
+<p align="left">
+<a href="https://github.com/fajarmaulanahd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
